@@ -1,0 +1,31 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* pos_merge_orders
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 10.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-16 22:03+0000\n"
+"PO-Revision-Date: 2018-03-16 22:03+0000\n"
+"Last-Translator: Dorina Kovacs, 2018\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: pos_merge_orders
+#. openerp-web
+#: code:addons/pos_merge_orders/static/src/xml/mergeorders.xml:6
+#, python-format
+msgid "Merge"
+msgstr "Összevonás"
+
+#. module: pos_merge_orders
+#. openerp-web
+#: code:addons/pos_merge_orders/static/src/js/mergeorders.js:63
+#, python-format
+msgid "Merge order with"
+msgstr "Összevonás a következővel"
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates id="template" xml:space="preserve">
+
+    <t t-name="MergeOrdersButton">
+        <div class='control-button'>
+            <img class='merge-arrow' src='/pos_merge_orders/static/src/svg/merge_arrow.svg'/> Merge
+        </div>
+    </t>
+
+</templates>
